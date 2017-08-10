@@ -1,0 +1,38 @@
+.jumbotron
+{
+    text-align: center;
+    background: none;
+    
+}
+.sectionLight{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.cricketStuffWrapper
+{
+    margin-top: 20px;
+}
+
+button.cricketStuff
+{
+    display: block;
+    margin:auto;
+}
+
+h5.modal-title{
+    margin: auto;
+}
+
+.finalWrapper{
+    padding: 2rem;
+}
+
+img.imgsize{
+    height: 17rem;
+    width:22rem;
+}
+
