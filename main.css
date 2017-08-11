@@ -36,3 +36,43 @@ img.imgsize{
     width:22rem;
 }
 
+img.imgCenter
+{
+    display: block;
+    margin: auto;
+}
+
+button.btnCenter
+{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 54%;
+    
+}
+
+
+img.footerImg{
+    padding: 10px;
+}
+
+.fa{
+    margin: 10px;
+}
+
+.fa-facebook-square
+{
+    color: #3b5998;
+}
+.fa-instagram{
+    color: #ffffff;
+}
+.fa-google-plus-square{
+    color: #c32f10;
+}
+.socialWrapper
+{
+    margin: auto;
+    
+}
